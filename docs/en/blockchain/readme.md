@@ -18,15 +18,15 @@ Users can lease their WAVES to a Waves node and get a part of the node payout as
 
 ## Performance
 
-By its unique “liquid” block approach, the Waves-NG protocol boosts blockchain performance to hundreds of transactions per second, which continuously increase until the next block is created. It usually takes about 2 seconds to put a transaction to the block, ensuring a much better user experience for your apps. [More about Waves-NG](/en/blockchain/waves-protocol/waves-ng-protocol)
+By using a unique “liquid” block approach, the Waves-NG protocol boosts blockchain performance to hundreds of transactions per second. In contrast to regular blockchain blocks, the "liquid" blocks grow continuously until the next block is created. It usually takes about 2 seconds to put a transaction to the block, helping you to guarantee a better user experience for your apps. [More about Waves-NG](/en/blockchain/waves-protocol/waves-ng-protocol)
 
 ## Transparency
 
-The Waves protocol is totally open, with the source code [available on Github](https://github.com/wavesplatform). The protocol updates and inprovements are discussed by the community on the [Waves Enhancement Proposals](https://forum.wavesplatform.com/c/waves-improvment-proposals) forum. [Activation of new features](/en/waves-node/features/) and [reward changes](/en/blockchain/mining/mining-reward) are accepted by voting of the nodes.
+The Waves protocol is totally open, with the source code [available on Github](https://github.com/wavesplatform). The protocol's updates and improvements are discussed by the community on the [Waves Enhancement Proposals](https://forum.wavesplatform.com/c/waves-improvment-proposals) forum. [Activation of new features](/en/waves-node/features/) and [reward changes](/en/blockchain/mining/mining-reward) are accepted by voting of the nodes.
 
 ## Ecosystem for Developers
 
-Beyond the blockchain functionality and its underlying protocols, the Waves ecosystem offers a diverse collection of tools, products, and components to streamline the process of building and running dApps. The tools are developed by both the Waves team and the community.
+Beyond the blockchain functionality and its underlying protocols, the Waves ecosystem offers a diverse collection of tools, products, and components to streamline the process of building and running dApps. The tools are developed both by the Waves team and the developer community.
 
 ![](./_assets/ecosystem.png)
 
@@ -36,7 +36,7 @@ Beyond the blockchain functionality and its underlying protocols, the Waves ecos
 
 <!-- ## Sponsoring
 
-Application developers can pay fees for dApp script calls of their users and lower the entry threshold for them (for example, offer a free trial). [More] (/ en/blockchain/waves-protocol/sponsored-fee) -->
+Application developers can pay fees for dApp script calls of their users and decrease the entry threshold for them (for example, offer a free trial). [More] (/ en/blockchain/waves-protocol/sponsored-fee) -->
 
 ## Join the Waves Community
 
